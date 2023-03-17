@@ -1,0 +1,10 @@
+1.github에서 레지파토리 만들기
+2.로컬폴더에서 하고싶은데 폴더로 가서 그쪽 커멘드모드로 가서 gitclone
+따기
+3.로컬 폴더 생성
+cd
+
+거기에 복사
+git add .
+git commit 
+5.git push orgin
